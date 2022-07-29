@@ -1,4 +1,8 @@
 <div align="center">
+  <h3>Nerd who knows too much about programming languages</h3>
+  <sub>(...and who has too much free time for technical deep dives)</sub>
+  
+  <p>&nbsp;</p>
   <a href="https://gitlab.com/joogswastaken"><img src="https://img.shields.io/badge/GitLab-JoogsWasTaken-orange?logo=gitlab&style=for-the-badge" /></a>
   <img src="https://img.shields.io/github/followers/JoogsWasTaken?logo=github&style=for-the-badge" />
   <a href="https://twitter.com/asciiowl"><img src="https://img.shields.io/twitter/follow/asciiowl?logo=twitter&style=for-the-badge" /></a>
@@ -6,7 +10,7 @@
 
 ---
 
-### Programming languages
+#### Programming languages
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
@@ -24,7 +28,7 @@
 
 ---
 
-### Frameworks
+#### Frameworks
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" />
@@ -34,7 +38,7 @@
 
 ---
 
-### Technologies
+#### Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
@@ -47,7 +51,7 @@
 
 ---
 
-### Tools
+#### Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
@@ -57,7 +61,7 @@
 
 ---
 
-### Libraries
+#### Libraries
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
