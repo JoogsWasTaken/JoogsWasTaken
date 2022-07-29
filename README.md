@@ -55,4 +55,5 @@
 
 - Continuous integration (❤️ GitLab CI)
 - Cybersecurity (❤️ /r/cybersecurity)
+- Metalcore and djent (❤️ Periphery)
 - Owls (❤️ Garu)
