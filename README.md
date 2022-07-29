@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://gitlab.com/joogswastaken"><img src="https://img.shields.io/badge/GitLab-JoogsWasTaken-orange?logo=gitlab&style=for-the-badge" /></a>
+  <img src="https://img.shields.io/github/followers/JoogsWasTaken?logo=github&style=for-the-badge" />
+  <a href="https://twitter.com/asciiowl"><img src="https://img.shields.io/twitter/follow/asciiowl?logo=twitter&style=for-the-badge" /></a>
+</div>
+
+---
+
 ### Programming languages
 
 <div>
@@ -12,7 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" />
 </div>
 
-<sup>Yes, I'm aware that CSS, HTML5, LaTeX and Sass are technically not programming languages</sup>
+<p><sub>Yes, I'm aware that CSS, HTML5, LaTeX and Sass are technically not programming languages</sub></p>
+
+---
 
 ### Frameworks
 
@@ -21,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
 </div>
+
+---
 
 ### Technologies
 
@@ -33,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" />
 </div>
 
+---
+
 ### Tools
 
 <div>
@@ -40,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="48" />
 </div>
+
+---
 
 ### Libraries
 
@@ -49,18 +65,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
 </div>
-
-<!--
-**JoogsWasTaken/JoogsWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
