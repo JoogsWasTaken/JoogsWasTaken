@@ -55,4 +55,4 @@
 
 - Continuous integration (❤️ GitLab CI)
 - Cybersecurity (❤️ /r/cybersecurity)
-- Owls (❤️ Eurasian Eagle Owl)
+- Owls (❤️ Garu)
