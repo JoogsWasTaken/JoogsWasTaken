@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Nerd who knows too much about programming languages</h3>
-  <sub>(...and who has too much free time for technical deep dives)</sub>
+  <sub>(...and who has too much free time for technical deep dives)</sub> <sub>(I use Arch btw)</sub>
   
   <p>&nbsp;</p>
   <a href="https://gitlab.com/joogswastaken"><img src="https://img.shields.io/badge/GitLab-JoogsWasTaken-orange?logo=gitlab&style=for-the-badge" /></a>
@@ -31,21 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" />
 </div>
 
-<p><sub>Yes, I'm aware that CSS, HTML5, LaTeX and Sass are technically not programming languages</sub></p>
+<p><sub>Yes, I'm aware that CSS, HTML, LaTeX and Sass are technically not programming languages</sub></p>
 
 ---
 
-#### Frameworks
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
-</div>
-
----
-
-#### Technologies
+#### Technologies and tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
@@ -54,13 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" />
-</div>
-
----
-
-#### Tools
-
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="48" />
@@ -68,11 +51,8 @@
 
 ---
 
-#### Libraries
+#### Other areas of interest
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
-</div>
+- Continuous integration (❤️ GitLab CI)
+- Cybersecurity (❤️ /r/cybersecurity)
+- Owls (❤️ Eurasian Eagle Owl)
