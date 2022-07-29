@@ -4,7 +4,7 @@
   
   <p>&nbsp;</p>
   <a href="https://gitlab.com/joogswastaken"><img src="https://img.shields.io/badge/GitLab-JoogsWasTaken-orange?logo=gitlab&style=for-the-badge" /></a>
-  <img src="https://img.shields.io/github/followers/JoogsWasTaken?logo=github&style=for-the-badge" />
+  <a href="https://github.com/JoogsWasTaken"><img src="https://img.shields.io/github/followers/JoogsWasTaken?logo=github&style=for-the-badge" /></a>
   <a href="https://twitter.com/asciiowl"><img src="https://img.shields.io/twitter/follow/asciiowl?logo=twitter&style=for-the-badge" /></a>
 </div>
 
