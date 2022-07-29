@@ -10,6 +10,13 @@
 
 ---
 
+- Currently working at the **Medical Data Science Dept.** in the **Medical Informatics Center Leipzig** 
+- Performing **server maintenance, system administration** and being the rubber ducky for all technical problems
+- Researching **privacy-preserving record linkage** in distributed data environments
+- Using GitHub for private passion projects and exploring new tech
+
+---
+
 #### Programming languages
 
 <div>
