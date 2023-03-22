@@ -5,7 +5,7 @@
   <p>&nbsp;</p>
   <a href="https://gitlab.com/joogswastaken"><img src="https://img.shields.io/badge/GitLab-JoogsWasTaken-orange?logo=gitlab&style=for-the-badge" /></a>
   <a href="https://github.com/JoogsWasTaken"><img src="https://img.shields.io/github/followers/JoogsWasTaken?logo=github&style=for-the-badge" /></a>
-  <a href="https://infosec.exchange/@roothoot"><img src="https://img.shields.io/mastodon/follow/110068736523274864?color=red&domain=https%3A%2F%2Finfosec.exchange&label=Mastodon&style=for-the-badge" /></a>
+  <a href="https://infosec.exchange/@roothoot"><img src="https://img.shields.io/mastodon/follow/110068736523274864?color=red&domain=https%3A%2F%2Finfosec.exchange&logo=mastodon&label=Mastodon&style=for-the-badge" /></a>
 </div>
 
 ---
